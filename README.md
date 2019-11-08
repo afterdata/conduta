@@ -60,7 +60,7 @@ O assédio inclui comentários verbais ofensivos relacionados a gênero, identid
 
 * Os participantes solicitados a parar com comportamento de assédio devem cumprir imediatamente.
 * Todo e qualquer material criado para a Comunidade do AfterData devem respeitar esse código de conduta.
-* Se você estiver sendo assediado, ou observar algum compartamento onde alguém está sendo assediado ou tenha qualquer outra preocupação, entre em contato com um membro da equipe do AfterData imediatamente.
+* Se você estiver sendo assediado, ou observar algum comportamento onde alguém está sendo assediado ou tenha qualquer outra preocupação, entre em contato com um membro da equipe do AfterData imediatamente.
 
 
 #### 4.2 Fotografia
@@ -93,4 +93,4 @@ Este código de conduta e seus procedimentos relacionados também se aplicam ao 
 Este código de conduta é distribuído sob uma licença [Creative Commons Attribution-ShareAlike](https://creativecommons.org/licenses/by-sa/3.0/), feito pela comunidade do AfterData.
 Com base e revisões a partir do [The Hack Day Manifesto](https://hackdaymanifesto.com), [CitizenCode](http://citizencodeofconduct.org/), [Conduta DevParaná](https://github.com/DeveloperParana/conduta), [Hack Code of Conduct](https://hackcodeofconduct.org), [Código de Conduta do Django](https://www.djangoproject.com/conduct/), [Politica Anti-Assédio do Geek Feminism](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy).
 
-Agradecemos a toda comunidade de DataScience! :heart:
+Agradecemos a toda comunidade de Data Science! :heart:
