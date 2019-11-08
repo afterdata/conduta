@@ -71,7 +71,7 @@ A fotografia é incentivada, mas os outros participantes devem ter uma chance ra
 
 Comportamento inaceitável de qualquer membro da comunidade, incluindo patrocinadores e aqueles com autoridade decisória, não será tolerado.
 
-**Ressaltamos: Qualquer pedido para interromper um compartamento inadequado deve ser cumprido imediatamente.*
+**Ressaltamos: Qualquer pedido para interromper um comportamento inadequado deve ser cumprido imediatamente.**
 
 Se um membro da comunidade se envolver em um comportamento inaceitável, os organizadores da comunidade podem tomar qualquer medida que considerem apropriada, incluindo proibição temporária ou expulsão permanente da comunidade sem aviso prévio (e sem reembolso no caso de um evento pago).
 
@@ -94,4 +94,3 @@ Este código de conduta é distribuído sob uma licença [Creative Commons Attri
 Com base e revisões a partir do [The Hack Day Manifesto](https://hackdaymanifesto.com), [CitizenCode](http://citizencodeofconduct.org/), [Conduta DevParaná](https://github.com/DeveloperParana/conduta), [Hack Code of Conduct](https://hackcodeofconduct.org), [Código de Conduta do Django](https://www.djangoproject.com/conduct/), [Politica Anti-Assédio do Geek Feminism](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy).
 
 Agradecemos a toda comunidade de DataScience! :heart:
-
