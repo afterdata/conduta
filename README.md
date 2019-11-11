@@ -49,7 +49,7 @@ Os comportamentos a seguir são considerados assédio e são inaceitáveis em no
 * Fotografia ou gravação inadequada.
 * Contato físico inadequado. Você deve ter o consentimento de alguém antes de tocá-lo.
 * Atenção sexual indesejada. Isso inclui comentários sexualizados ou piadas; toque sexual inapropriado, tateando e avanços sexuais indesejáveis.
-* Intimidação deliberada, perseguição ou acompanhamento (on-line ou pessoalmente).
+* Intimidação deliberada, perseguição ou acompanhamento (online ou pessoalmente).
 * Defendendo ou incentivando qualquer um dos comportamentos acima.
 * Interrupção sustentada de eventos da comunidade, incluindo palestras e apresentações.
 
@@ -85,7 +85,7 @@ Além disso, os organizadores da comunidade estão disponíveis para ajudar os m
 
 ### 7. Concluindo
 
-Esperamos que todos os participantes da comunidade (contribuintes, remunerados ou não; patrocinadores; e outros convidados) sigam este Código de Conduta em todos os locais da comunidade - on-line e presencial - bem como em todas as comunicações pessoais da comunidade o negócio.
+Esperamos que todos os participantes da comunidade (contribuintes, remunerados ou não; patrocinadores; e outros convidados) sigam este Código de Conduta em todos os locais da comunidade - online e presencial - bem como em todas as comunicações pessoais da comunidade o negócio.
 
 Este código de conduta e seus procedimentos relacionados também se aplicam ao comportamento inaceitável que ocorre fora do escopo das atividades comunitárias, quando esse comportamento tem o potencial de afetar adversamente a segurança e o bem-estar dos membros da comunidade.
 
